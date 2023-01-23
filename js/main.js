@@ -15,11 +15,11 @@
 
 // CHIEDO IL NUMERO DI KM CHE IL PASSEGGERO VUOLE PERCORRERE
 let travelDistance = prompt('Quanti km devi percorrere?');
-console.log(`Il tuo viaggio è lungo ${travelDistance}km`);
+// console.log(`Il tuo viaggio è lungo ${travelDistance}km`);
 
 // CHIEDO L'ETA' DEL PASSEGGERO
 let userAge = prompt('Quanti anni hai?');
-console.log(`Hai ${userAge} anni`);
+// console.log(`Hai ${userAge} anni`);
 
 // PREZZO DEFINITO IN BASE AI KM (0.21 € AL KM)
 //MOLTIPLICARE travelDistance * 0.21 € 
